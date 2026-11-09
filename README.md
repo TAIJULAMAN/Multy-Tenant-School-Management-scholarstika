@@ -82,10 +82,10 @@
 
 Experience role-tailored dashboards and a modern, responsive design built with Tailwind CSS 4 and Radix UI primitives.
 
-|                       **Institution & Administrative Control**                        |                                       **Branch & Academic Analytics**                                        |
-| :-----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| <img src="./public/Powerful School.png" alt="Admin Dashboard Overview" width="480" /> | <img src="./public/school-dashboard-charts-illustration.jpg" alt="School Dashboard Analytics" width="480" /> |
-|                    _Centralized multi-tenant institution overview_                    |                                  _Real-time academic performance & metrics_                                  |
+|                            **Institution & Administrative Control**                            |                                       **Branch & Academic Analytics**                                        |
+| :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| <img src="./public/features/Powerful-School.png" alt="Admin Dashboard Overview" width="480" /> | <img src="./public/school-dashboard-charts-illustration.jpg" alt="School Dashboard Analytics" width="480" /> |
+|                        _Centralized multi-tenant institution overview_                         |                                  _Real-time academic performance & metrics_                                  |
 
 |                              **Multi-Tenant Scalability**                              |                                   **Student & Mobile First Experience**                                   |
 | :------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
@@ -310,7 +310,6 @@ Scholarstika is built and actively maintained by a team of full-stack engineers 
 
 - **Md Shah Aman Patwary** — _Lead Full-Stack Software Engineer_
   - 🌐 GitHub: [@TAIJULAMAN](https://github.com/TAIJULAMAN)
-  - 💼 LinkedIn: [Md Shah Aman Patwary](https://linkedin.com/in/taijulaman)
   - 📧 Email: [taijulaman8@gmail.com](mailto:taijulaman8@gmail.com)
 
 - **DbHridoy** — _Full-Stack Engineer & Core Contributor_
